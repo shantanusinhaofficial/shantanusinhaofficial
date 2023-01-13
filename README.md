@@ -1,4 +1,4 @@
-[![masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![masterhead](https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif)]
 <h1 align="center">Hi 👋, I'm Shantanu Sinha</h1>
 <h3 align="center">A passionate learner</h3>
 <img align="right" atl="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
